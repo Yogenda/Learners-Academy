@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image: url('image/homepage.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+table, td, th, tr {
+	background-color: white;
+	text-align: center;
+}
+table, td{
+	text-align: center;
+}
